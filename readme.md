@@ -1,5 +1,7 @@
 # Gyakorló feladat
 
+https://fruhuszar.github.io/js_alapok_gyakorlas/
+
 A feladatokat külön függvényekkel oldd meg. a függvényeket a fuggvenyek.js fájlban hozd létre és a főprogramból hívd meg.  
 
 ## 1. feladat
